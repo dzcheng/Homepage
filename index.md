@@ -17,7 +17,7 @@ Office Phone: +86 21 5566 5317
 
 Email: chengdz@fudan.edu.cn
 
-Link: [www.nber.org](url); [www.ssrn.com](url)
+Link: [www.nber.org](http://www.nber.org/); [www.ssrn.com](http://www.ssrn.com/)
 
 
 Syntax highlighted code block
