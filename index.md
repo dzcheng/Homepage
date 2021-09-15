@@ -11,7 +11,7 @@ Department of World Economy, Fudan University
 
 [School of Economics](https://econ.fudan.edu.cn/),  [Fudan University](https://www.fudan.edu.cn/)
 
-No. 600 Guoquan Road, Shanghai, P. R. China (200433)
+**Address**: No. 600 Guoquan Road, Shanghai, P. R. China (200433)
 
 **Office Phone**: +86 21 5566 5317
 
