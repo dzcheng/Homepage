@@ -1,12 +1,12 @@
-# Dazhong CHENG （程大中）
+## Dazhong CHENG （程大中）
 Professor of Economics and Deputy Director
 
 Department of World Economy, Fudan University
 
 复旦大学世界经济系教授、博导、副主任
 
--Broad Research Fields: International Economics; Service Economy
--Current Research Interests: Enterprise Internationalization (firm-level trade, finance, investment, and GVC participation); Global Value Chains (GVCs); Transnational Input-output Analysis; Globalization and Regional Economic Integration; Service Economy and Finance
+- Broad Research Fields: International Economics; Service Economy
+- Current Research Interests: Enterprise Internationalization (firm-level trade, finance, investment, and GVC participation); Global Value Chains (GVCs); Transnational Input-output Analysis; Globalization and Regional Economic Integration; Service Economy and Finance
 
 School of Economics,  Fudan University
 
