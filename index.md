@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Dazhong's Homepage
 
 You can use the [editor on GitHub](https://github.com/dzcheng/Homepage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
