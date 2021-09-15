@@ -8,10 +8,10 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-$ git checkout -b gh-pages
-
 ```markdown
 Syntax highlighted code block
+
+$ git checkout -b gh-pages
 
 # Header 1
 ## Header 2
