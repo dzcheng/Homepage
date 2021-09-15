@@ -9,7 +9,7 @@ Broad Research Fields: International Economics; Service Economy
 
 Current Research Interests: Enterprise Internationalization (firm-level trade, finance, investment, and GVC participation); Global Value Chains (GVCs); Transnational Input-output Analysis; Globalization and Regional Economic Integration; Service Economy and Finance
 
-School of Economics,  Fudan University
+[School of Economics](https://econ.fudan.edu.cn/),  [Fudan University](https://www.fudan.edu.cn/)
 
 No. 600 Guoquan Road, Shanghai, P. R. China (200433)
 
