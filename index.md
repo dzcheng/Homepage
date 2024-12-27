@@ -1,5 +1,5 @@
 ## Dazhong Cheng （程大中）
-Professor of Economics and Deputy Director
+Professor of Economics
 
 Department of World Economy, Fudan University
 
