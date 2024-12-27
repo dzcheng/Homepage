@@ -3,7 +3,7 @@ Professor of Economics and Deputy Director
 
 Department of World Economy, Fudan University
 
-复旦大学世界经济系教授、博导、副主任
+复旦大学世界经济系教授、博导
 
 **Broad Research Fields**: International Economics; Service Economy
 
